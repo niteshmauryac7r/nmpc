@@ -1,0 +1,15 @@
+{
+  "name": "nmpc",
+  "version": "1.0.0",
+  "description": "nmpc website",
+  "main": "index.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Nilesh",
+  "license": "ISC",
+  "homepage": "https://niteshmauryac7r.github.io/nmpc",
+  "dependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
